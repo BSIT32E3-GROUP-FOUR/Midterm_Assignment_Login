@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Midterm_Assignment_login.Models;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics;
 
 namespace Midterm_Assignment_login.Controllers
@@ -13,12 +14,12 @@ namespace Midterm_Assignment_login.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Login()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Register()
         {
             return View();
         }
@@ -29,4 +30,8 @@ namespace Midterm_Assignment_login.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
+
+
+
+
 }
