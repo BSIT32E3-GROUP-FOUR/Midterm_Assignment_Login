@@ -18,16 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\VSCODES!!!\Midterm_Assignment_login\Midterm_Assignment_login
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Home/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Home/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
+[D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Shared/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Shared/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/VSCODES\!\!\!/Midterm_Assignment_login/Midterm_Assignment_login/Views/Shared/Register.cshtml]
