@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "w1y9VMvQzFfGtaRqGhU86z8bqSZTiXn8Ucl1W/E+VaL/vY5i3a2DwmUI4ZEqJDMYjKdInQvNIFVAX5fM+lHr2g==",
+  "dgSpecHash": "OX58Vmh7/FCCksVjHDE15oKpmC82m6oUnk3A5rmTMJMlkUAklSfAmebpu5YRJWjzxC3J1PgZgz7UdF2lCfFXsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\STUDENT\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

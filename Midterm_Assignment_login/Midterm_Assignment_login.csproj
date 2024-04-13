@@ -7,18 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Domain\**" />
-    <Compile Remove="Infrastructure\**" />
     <Compile Remove="Services\**" />
-    <Content Remove="Domain\**" />
-    <Content Remove="Infrastructure\**" />
     <Content Remove="Services\**" />
-    <EmbeddedResource Remove="Domain\**" />
-    <EmbeddedResource Remove="Infrastructure\**" />
     <EmbeddedResource Remove="Services\**" />
-    <None Remove="Domain\**" />
-    <None Remove="Infrastructure\**" />
     <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
   </ItemGroup>
 
 </Project>
