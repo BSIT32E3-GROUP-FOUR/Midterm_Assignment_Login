@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\",
+  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\midterm_assignment_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|c:\\users\\student\\documents\\gathab\\midterm_assignment_login\\midterm_assignment_login\\midterm_assignment_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\midterm_assignment_login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|c:\\users\\student\\documents\\gathab\\midterm_assignment_login\\midterm_assignment_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|c:\\users\\student\\documents\\gathab\\midterm_assignment_login\\midterm_assignment_login\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,57 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Midterm_Assignment_login",
-              "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+              "Title": "Midterm_Assignment_login.csproj",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
-              "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
               "RelativeToolTip": "Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-12T18:17:45.546Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Midterm_Assignment_login\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T16:36:38.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T16:36:38.467Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "site.css",
-              "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\wwwroot\\css\\site.css",
               "RelativeToolTip": "Midterm_Assignment_login\\wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
