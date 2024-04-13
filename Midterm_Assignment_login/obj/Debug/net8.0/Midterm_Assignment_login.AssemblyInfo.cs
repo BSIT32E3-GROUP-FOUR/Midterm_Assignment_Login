@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Midterm_Assignment_login")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c307dd0b8795591dd565f412afea2792ef5749af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c0e9016837c19b7332827e16c176ded55fcdfcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Midterm_Assignment_login")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Midterm_Assignment_login")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

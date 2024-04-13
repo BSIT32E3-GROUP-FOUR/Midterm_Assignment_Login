@@ -1,26 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {}
+    "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {
+    "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+        "projectUniqueName": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
         "projectName": "Midterm_Assignment_login",
-        "projectPath": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
-        "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENT\\Documents\\gathab\\Midterm_Assignment_login\\Midterm_Assignment_login\\obj\\",
+        "projectPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+        "packagesPath": "C:\\Users\\cuteaq\\.nuget\\packages\\",
+        "outputPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cuteaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
