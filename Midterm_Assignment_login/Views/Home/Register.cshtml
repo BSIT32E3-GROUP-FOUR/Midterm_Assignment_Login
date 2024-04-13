@@ -1,7 +1,7 @@
 ﻿@* Register.cshtml *@
 @model RegisterViewModel
 
-@using (Html.BeginForm())
+@using (Html.BeginForm("Register", "Account", FormMethod.Post))
 {
     @Html.LabelFor(m => m.Username)
     @Html.TextBoxFor(m => m.Username)
@@ -14,3 +14,4 @@
     <br />
     <input type="submit" value="Register" />
 }
+
