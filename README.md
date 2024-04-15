@@ -1,4 +1,4 @@
-understanding the architecture of an ASP.NET MVC application is essential for developing web applications effectively. Let's break down the architecture described in the provided code into simpler terms:
+Understanding the architecture of an ASP.NET MVC application is essential for developing web applications effectively. Let's break down the architecture described in the provided code into simpler terms:
 
 Model-View-Controller (MVC) Architecture:
 
