@@ -59,13 +59,13 @@ public class AccountController : Controller
             ModelState.AddModelError("", "Invalid username or password.");
           
         }
-        return RedirectToAction("Dashboard", "Home");
+
         return View(model);
-        
     }
 
+    // ViewModel
+
+
   
-
-
 }
 

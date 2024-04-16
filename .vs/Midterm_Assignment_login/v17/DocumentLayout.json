@@ -3,48 +3,40 @@
   "WorkspaceRootPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|solutionrelative:midterm_assignment_login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D7B264B-E5FD-47B9-AF99-453E89BCDCE7}|Midterm_Assignment_login\\Midterm_Assignment_login.csproj|d:\\vscodes!!!\\midterm_assignment_login\\midterm_assignment_login\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,33 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Shared\\Dashboard.cshtml",
-              "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\Dashboard.cshtml*",
-              "RelativeToolTip": "Midterm_Assignment_login\\Views\\Shared\\Dashboard.cshtml*",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T20:42:22.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\Login.cshtml",
-              "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Shared\\Login.cshtml",
-              "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\Login.cshtml",
-              "RelativeToolTip": "Midterm_Assignment_login\\Views\\Shared\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-13T20:27:26.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Domain\\User.cs",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Domain\\User.cs",
@@ -120,11 +86,12 @@
               "RelativeToolTip": "Midterm_Assignment_login\\Domain\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T19:59:38.51Z"
+              "WhenOpened": "2024-04-13T19:59:38.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\Register.cshtml",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Shared\\Register.cshtml",
@@ -137,13 +104,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Home\\Register.cshtml",
               "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Home\\Register.cshtml",
               "RelativeToolTip": "Midterm_Assignment_login\\Views\\Home\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-13T07:23:57.299Z",
               "EditorCaption": ""
@@ -163,33 +130,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Midterm_Assignment_login\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAIwD0AAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T07:21:22.325Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Models\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Models\\RegisterViewModel.cs",
               "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Models\\RegisterViewModel.cs",
               "RelativeToolTip": "Midterm_Assignment_login\\Models\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T07:16:40.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Program.cs",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Program.cs",
@@ -197,37 +164,38 @@
               "RelativeToolTip": "Midterm_Assignment_login\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAADgvxsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T06:17:36.679Z"
+              "WhenOpened": "2024-04-13T06:17:36.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Midterm_Assignment_login\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-13T05:48:09.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Midterm_Assignment_login\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAADwvx0AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T05:37:13.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Views\\_ViewImports.cshtml",
@@ -239,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Midterm_Assignment_login.csproj",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
@@ -251,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "site.css",
               "DocumentMoniker": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Midterm_Assignment_login\\wwwroot\\css\\site.css",
