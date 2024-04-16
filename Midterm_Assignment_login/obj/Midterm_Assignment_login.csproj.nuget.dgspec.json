@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {}
+    "D:\\github\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {}
   },
   "projects": {
-    "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {
+    "D:\\github\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+        "projectUniqueName": "D:\\github\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
         "projectName": "Midterm_Assignment_login",
-        "projectPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
+        "projectPath": "D:\\github\\Midterm_Assignment_login\\Midterm_Assignment_login\\Midterm_Assignment_login.csproj",
         "packagesPath": "C:\\Users\\cuteaq\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCODES!!!\\Midterm_Assignment_login\\Midterm_Assignment_login\\obj\\",
+        "outputPath": "D:\\github\\Midterm_Assignment_login\\Midterm_Assignment_login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cuteaq\\AppData\\Roaming\\NuGet\\NuGet.Config",
